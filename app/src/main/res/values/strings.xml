@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Wear And Pair</string>
+    <string name="wear_and_pair">Wear &amp; Pair</string>
+    <string name="user">Username or Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
